@@ -1,11 +1,14 @@
-# Bonjour, je suis st-grosjean
+# Bonjour · Hello, I'm st-grosjean
 
-Passionné de **DevOps**, **networking** et automatisation -  
+**FR** — Passionné de **DevOps**, **networking** et automatisation —
 et en dehors du clavier, de course à pied, cyclisme et sports mécaniques 🏃‍♂️🚴🏍️
+
+**EN** - Passionate about **DevOps**, **networking** and automation -
+and away from the keyboard, running, cycling and motorsports 🏃‍♂️🚴🏍️
 
 ---
 
-## Stack & outils
+## Stack & outils · Tools
 
 ### Networking
 ![Extreme Networks](https://img.shields.io/badge/Extreme_Networks-6B2D8B?style=flat&logo=extreme-networks&logoColor=white)
@@ -14,7 +17,7 @@ et en dehors du clavier, de course à pied, cyclisme et sports mécaniques 🏃�
 ![SPBm](https://img.shields.io/badge/SPBm-4A4A8A?style=flat&logoColor=white)
 ![VXLAN/EVPN](https://img.shields.io/badge/VXLAN%2FEVPN-4A4A8A?style=flat&logoColor=white)
 
-### Automatisation & DevOps
+### Automatisation & DevOps · Automation & DevOps
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Semaphore](https://img.shields.io/badge/Semaphore_UI-19A974?style=flat&logo=ansible&logoColor=white)
@@ -26,16 +29,31 @@ et en dehors du clavier, de course à pied, cyclisme et sports mécaniques 🏃�
 
 ---
 
-## Projets
+## Projets · Projects
 
 ### DevOps & Networking
-> *En cours de construction — des dépôts arrivent bientôt*
+> **FR** *En cours de construction - des dépôts arrivent bientôt*  
+> **EN** *Work in progress - repositories coming soon*
 
 ### ⚽ Fun
-**[world-cup-2026-predictor](./world-cup-2026-predictor)** — Prédiction des matchs de la Coupe du Monde 2026 par simulation statistique
+
+**[wc2026-predictor](https://github.com/st-grosjean/wc2026-predictor)**
+
+**FR** - Simulateur probabiliste de la Coupe du Monde FIFA 2026 -
+modèle de Poisson bivarié (Dixon-Coles), calibrage MLE, simulation Monte Carlo jusqu'à 1 million de tournois,
+interface Streamlit multilingue (FR · EN · ES · PT · DE · JA · KO).
+
+**EN** - FIFA World Cup 2026 probabilistic simulator -
+bivariate Poisson model (Dixon-Coles), MLE calibration, Monte Carlo simulation up to 1 million tournaments,
+multilingual Streamlit UI (FR · EN · ES · PT · DE · JA · KO).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
 ## 📊 Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=st-grosjean&show_icons=true&theme=dark&hide_border=true)
