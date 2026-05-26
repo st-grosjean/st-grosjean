@@ -1,6 +1,6 @@
 # Bonjour · Hello, I'm st-grosjean
 
-**FR** — Passionné de **DevOps**, **networking** et automatisation —
+**FR** - Passionné de **DevOps**, **networking** et automatisation -
 et en dehors du clavier, de course à pied, cyclisme et sports mécaniques 🏃‍♂️🚴🏍️
 
 **EN** - Passionate about **DevOps**, **networking** and automation -
