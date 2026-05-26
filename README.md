@@ -1,7 +1,7 @@
 # Bonjour, je suis st-grosjean
 
 Passionné de **DevOps**, **networking** et automatisation -  
-et en dehors du clavier, de course à pied, cyclisme et sports mécaniques 🏃‍♂️🚴🏎️
+et en dehors du clavier, de course à pied, cyclisme et sports mécaniques 🏃‍♂️🚴🏍️
 
 ---
 
