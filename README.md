@@ -20,6 +20,7 @@ and away from the keyboard, running, cycling and motorsports 🏃‍♂️🚴�
 ### Automatisation & DevOps · Automation & DevOps
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![NetBox](https://img.shields.io/badge/NetBox-9B59B6?style=flat&logo=netbox&logoColor=white)
 ![Semaphore](https://img.shields.io/badge/Semaphore_UI-19A974?style=flat&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
