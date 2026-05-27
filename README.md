@@ -36,9 +36,9 @@ and away from the keyboard, running, cycling and motorsports 🏃‍♂️🚴�
 > **FR** *En cours de construction - des dépôts arrivent bientôt*  
 > **EN** *Work in progress - repositories coming soon*
 
-### ⚽ Fun
+### Fun
 
-**[wc2026-predictor](https://github.com/st-grosjean/wc2026-predictor)**
+⚽ **[wc2026-predictor](https://github.com/st-grosjean/wc2026-predictor)**
 
 **FR** - Simulateur probabiliste de la Coupe du Monde FIFA 2026 -
 modèle de Poisson bivarié (Dixon-Coles), calibrage MLE, simulation Monte Carlo jusqu'à 1 million de tournois,
