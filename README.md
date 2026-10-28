@@ -7,6 +7,7 @@
 Passionate about **DevOps**, **networking** and automation.
 
 Deeply curious about science and technology:
+- 🔐 **Cybersecurity**
 - ⚛️ **Physics & Chemistry**, and the infinitely small and the infinitely large
 - 🔭 **Astrophysics** and **Mathematics**
 - 🧠 **AI**, across the whole stack: from models down to the power grid, and everything in between
@@ -66,6 +67,7 @@ multilingual Streamlit UI (EN · FR · ES · PT · DE · JA · KO).
 Passionné de **DevOps**, **networking** et automatisation.
 
 Profondément curieux de sciences et de technologies :
+- 🔐 **Cybersécurité**
 - ⚛️ **Physique-Chimie**, et les « deux infinis », l'infiniment petit et l'infiniment grand
 - 🔭 **Astrophysique** et **Mathématiques**
 - 🧠 **IA**, sur toute la stack : des modèles jusqu'au réseau électrique, en passant par tout le reste
