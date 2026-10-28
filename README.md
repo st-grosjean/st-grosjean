@@ -38,7 +38,19 @@ Away from the keyboard: running, cycling and motorsports 🏃‍♂️🚴🏍�
 ## 🚀 Projects
 
 ### 🔧 DevOps & Networking
-> *Work in progress, repositories coming soon*
+
+**[CVE-Watch-Extreme-Networks](https://github.com/st-grosjean/CVE-Watch-Extreme-Networks)**
+Monitoring app for Extreme Networks Security Advisories: CVEs sorted by product and year,
+exposure and published fixes, CVSS severity and active exploitation (NVD, CISA KEV),
+update detection, and a read-only REST API described in OpenAPI.
+Zero third-party dependencies (Python standard library only), hardened Docker container.
+
+![Python](https://img.shields.io/badge/Python_3.14-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+![Renovate](https://img.shields.io/badge/Renovate-1A1F6C?style=flat&logo=renovate&logoColor=white)
+![Zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen?style=flat)
 
 ### ⚽ Fun
 
@@ -98,7 +110,19 @@ En dehors du clavier : course à pied, cyclisme et sports mécaniques 🏃‍♂
 ## 🚀 Projets
 
 ### 🔧 DevOps & Networking
-> *En cours de construction, des dépôts arrivent bientôt*
+
+**[CVE-Watch-Extreme-Networks](https://github.com/st-grosjean/CVE-Watch-Extreme-Networks)**
+Veille des Security Advisories Extreme Networks : CVE classées par produit et par année,
+exposition et correctifs publiés, sévérité CVSS et exploitation active (NVD, KEV de la CISA),
+détection des mises à jour, et API REST en lecture seule décrite en OpenAPI.
+Aucune dépendance tierce (bibliothèque standard Python uniquement), conteneur Docker durci.
+
+![Python](https://img.shields.io/badge/Python_3.14-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+![Renovate](https://img.shields.io/badge/Renovate-1A1F6C?style=flat&logo=renovate&logoColor=white)
+![Zero dependencies](https://img.shields.io/badge/dépendances-0-brightgreen?style=flat)
 
 ### ⚽ Fun
 
