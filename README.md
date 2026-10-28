@@ -45,6 +45,8 @@ exposure and published fixes, CVSS severity and active exploitation (NVD, CISA K
 update detection, and a read-only REST API described in OpenAPI.
 Zero third-party dependencies (Python standard library only), hardened Docker container.
 
+![CVE](https://img.shields.io/badge/CVE-CC0000?style=flat&logoColor=white)
+![Extreme Networks](https://img.shields.io/badge/Extreme_Networks-6B2D8B?style=flat&logo=extreme-networks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3.14-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -117,6 +119,8 @@ exposition et correctifs publiés, sévérité CVSS et exploitation active (NVD,
 détection des mises à jour, et API REST en lecture seule décrite en OpenAPI.
 Aucune dépendance tierce (bibliothèque standard Python uniquement), conteneur Docker durci.
 
+![CVE](https://img.shields.io/badge/CVE-CC0000?style=flat&logoColor=white)
+![Extreme Networks](https://img.shields.io/badge/Extreme_Networks-6B2D8B?style=flat&logo=extreme-networks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3.14-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
